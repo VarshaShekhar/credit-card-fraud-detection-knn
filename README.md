@@ -112,4 +112,4 @@ KNN is a simple yet effective **baseline model** for fraud detection. It works w
 ## 🤝 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/varsha-shekhar)
-- 📧 varshaiyer96@gmail.com
+- [Gmail](varshaiyer96@gmail.com)
