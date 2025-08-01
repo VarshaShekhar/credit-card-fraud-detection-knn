@@ -105,7 +105,6 @@ KNN is a simple yet effective **baseline model** for fraud detection. It works w
 | `fraud_detection_knn.ipynb` | Main Jupyter Notebook                  |
 | `fraud_detection_knn.html` | Rendered version of the notebook       |
 | `README.md`               | This file                              |
-| `requirements.txt`        | Python dependencies                    |
 
 ---
 
