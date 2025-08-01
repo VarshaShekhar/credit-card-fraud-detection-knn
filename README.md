@@ -3,6 +3,7 @@
 This project applies the **K-Nearest Neighbors (KNN)** algorithm to detect fraudulent transactions in a real-world, highly imbalanced credit card dataset. It includes preprocessing, scaling, tuning the value of `k`, evaluating classification performance, and visualizing results using PCA.
 
 ---
+![Project Thumbnail](credit_card_fraud-thumbnail.png)
 
 ## 📌 Project Objectives
 
@@ -107,12 +108,6 @@ KNN is a simple yet effective **baseline model** for fraud detection. It works w
 | `README.md`               | This file                              |
 
 ---
-
-## 🚀 Run the Project
-
-### Install requirements
-```bash
-pip install -r requirements.txt
 
 ## 🤝 Connect
 
